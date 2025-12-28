@@ -27,6 +27,21 @@ All stakeholders are invited to contribute to the issues, propose solutions, and
 - **Pull Requests** – Concrete proposals that address specific issues.
 - **Documents** – Key documents (e.g., draft charters, funding strategies, technical plans) will be stored as Markdown files in the repository.
 
+## Current Workstreams
+The initiative is organized around four core workstreams, each documented in the [`workstreams/`](workstreams/) folder:
+
+| Workstream | Description | Labels |
+|------------|-------------|--------|
+| [Political & Institutional Framework](workstreams/Political_Framework.md) | Draft a charter for regional cooperation on forest management and law enforcement. | `political`, `transboundary` |
+| [Financial Mobilization Strategy](workstreams/Financial_Mobilization.md) | Identify and detail potential funding sources (climate funds, carbon markets, PPPs). | `financial`, `transboundary` |
+| [Technical Implementation Plan](workstreams/Technical_Implementation.md) | Outline a unified, community‑based forest monitoring system using GIS and remote sensing. | `technical`, `transboundary` |
+| [Livelihoods & Food Security Integration](workstreams/Livelihoods_Food_Security.md) | Draft guidelines for sustainable agroforestry and non‑timber forest products. | `community‑engagement`, `transboundary` |
+
+Each workstream file includes a detailed objective, requested input, and instructions for contributors.
+
+## Active Collaboration
+- **Pull Request #1**: [Draft Proposal for Financial Mobilization](https://github.com/alestpoy/WA-Forest-Corridor-Initiative/pull/1) – a concrete example of how contributions are submitted and reviewed.
+
 ## Contact
 For high‑level inquiries, please contact the office of the Minister of Forestry, West Africa.
 
